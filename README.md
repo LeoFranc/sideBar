@@ -1,1 +1,3 @@
 # sideBar
+
+Sidebar examples.
