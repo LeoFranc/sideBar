@@ -1,0 +1,25 @@
+#centro{
+	padding:10px 50px 0 50px; /* Cima, Esquerda, Baixo, Direita */
+	height:100%;
+	font-family: Monaco, monospace;
+}
+
+#barra-esquerda{
+	background: linear-gradient(90deg, blue , black); /*Cor de Fundo*/
+ 	color:white; /*Cor de Fonte*/
+	position:absolute;
+	top:0;
+	left:0;
+	width: 300px;
+	height:100%;
+}
+
+#barra-direita{
+	background: linear-gradient(90deg, black, blue); /*Cor de Fundo*/
+ 	color:white; /*Cor de Fonte*/
+	position:absolute;
+  	top:0;
+  	right:0;
+  	width: 300px;
+  	height:100%;
+}

@@ -1,3 +1,3 @@
 # sideBar
 
-Sidebar examples.
+Exemplos de barras laterais.
